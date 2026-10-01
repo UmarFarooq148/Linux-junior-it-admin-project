@@ -42,6 +42,10 @@ Project structure and file management:
 
 ![Project Structure](project-structure-and-files.png)
 
+Search, permissions, and process monitoring:
+
+![Search and Permissions](backup-cleanup-and-final-check.png)
+
 Disk report and system information:
 
 ![Disk Report](disk-report-and-system-info.png)
